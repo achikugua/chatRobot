@@ -1,0 +1,32 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.practice.myapplication"
+        minSdkVersion 15
+        targetSdkVersion 23
+        versionCode 1
+        //multiDexEnabled true
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:23.2.1'
+    compile files('src/main/testlibs/bdasr_V3_20180320_9066860.jar')
+    compile files('libs/com.baidu.tts_2.3.1.20170808_e39ea89.jar')
+    compile files('libs/galaxy-v2.0.jar')
+    compile 'com.squareup.okhttp3:okhttp:3.4.1'
+    compile 'com.android.support:recyclerview-v7:23.2.1'
+}

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.practice.myapplication">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon000"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <meta-data
+            android:name="com.baidu.speech.APP_ID"
+            android:value="15326178" />
+        <meta-data
+            android:name="com.baidu.speech.API_KEY"
+            android:value="TfYGHrDUcDKyv0qWEzwctU7Q" />
+        <meta-data
+            android:name="com.baidu.speech.SECRET_KEY"
+            android:value="Tk5tSmKaaEB7IWtANjiAPSedFGwkN8cM" />
+
+        <service
+            android:name="com.baidu.speech.VoiceRecognitionService"
+            android:exported="false" />
+
+        <activity
+            android:name=".MainTest"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".FirstTryActivity"
+            android:label="百科"
+            android:parentActivityName=".MainTest" />
+        <activity
+            android:name=".Aboutus"
+            android:label="关于我们"
+            android:parentActivityName=".MainTest" />
+        <activity
+            android:name=".Help"
+            android:label="使用帮助"
+            android:parentActivityName=".MainTest" />
+        <activity
+            android:name=".Response"
+            android:label="软件反馈"
+            android:parentActivityName=".MainTest" />
+        <activity
+            android:name=".Second"
+            android:label="英译中"
+            android:parentActivityName=".MainTest" />
+        <activity
+            android:name=".Third"
+            android:label="诗词对接"
+            android:parentActivityName=".MainTest" />
+        <activity
+            android:name=".Fourth"
+            android:label="趣味聊天"
+            android:parentActivityName=".MainTest" />
+    </application>
+
+</manifest>
