@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="使用帮助：\n①点击app进入主界面，点击下方tab或向右滑动可切换到其它界面；
+\n②在主界面，点击百科，以什么是。。。为开头可询问百科信息；
+\n③在主界面，点击英译中，用英文询问可得到中文译文。（语音仅支持单个单词翻译，文本输入可支持单词、句子翻译）；
+\n④在主界面，点击诗词聊天，用诗词上句询问，可得到诗词下句；
+\n⑤在主界面，点击趣味聊天，便可随意聊天；
+\n⑥在其它界面，点击三个按钮可分别跳到详情页"
+        android:textSize="25dp"
+        android:padding="60dp"
+        android:textStyle="bold"
+        android:background="@drawable/back1"/>
+
+
+</LinearLayout>

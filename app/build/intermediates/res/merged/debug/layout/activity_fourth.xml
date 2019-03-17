@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#d8e0e8" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="趣味聊天，问什么都可以哦，小度会调皮地回复你哦~"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/msg_recycler_view4"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="20dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical"
+            >
+
+            <Button
+                android:id="@+id/speechSend4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/speak4"
+                android:layout_margin="10dp"/>
+
+        </LinearLayout>
+
+
+        <EditText
+            android:id="@+id/input_text4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="6"
+            android:hint="Type something here"
+            android:maxLines="2" />
+
+        <LinearLayout
+            android:layout_width="20dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical"
+
+            >
+
+            <Button
+                android:id="@+id/send4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/send4"
+                android:layout_margin="10dp"
+                />
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+</LinearLayout>

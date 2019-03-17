@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send2.png",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\src\\main\\res\\drawable\\send2.png"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speak.png",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\src\\main\\res\\drawable\\speak.png"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back2.jpeg",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\src\\main\\res\\drawable\\back2.jpeg"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speak4.png",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\src\\main\\res\\drawable\\speak4.png"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send4.png",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\src\\main\\res\\drawable\\send4.png"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\talk_left.9.png",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\src\\main\\res\\drawable\\talk_left.9.png"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speak2.png",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\src\\main\\res\\drawable\\speak2.png"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back3.jpeg",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\src\\main\\res\\drawable\\back3.jpeg"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speak3.png",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\src\\main\\res\\drawable\\speak3.png"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_record_selector.xml",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\src\\main\\res\\drawable\\tab_record_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send.png",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\src\\main\\res\\drawable\\send.png"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\talk_right.9.png",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\src\\main\\res\\drawable\\talk_right.9.png"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_sign_selector.xml",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\src\\main\\res\\drawable\\tab_sign_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back1.jpeg",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\src\\main\\res\\drawable\\back1.jpeg"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send3.png",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\src\\main\\res\\drawable\\send3.png"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pic7.png",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\src\\main\\res\\drawable\\pic7.png"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon000.jpg",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\src\\main\\res\\drawable\\icon000.jpg"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pic4.png",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\src\\main\\res\\drawable\\pic4.png"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    }
+]

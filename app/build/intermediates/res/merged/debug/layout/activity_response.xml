@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="如果有问题，
+\n请将问题发送到邮箱\n15915643523@163.com"
+        android:textSize="25dp"
+        android:padding="30dp"
+        android:textStyle="bold"
+        android:background="@drawable/back2"/>
+
+
+</LinearLayout>

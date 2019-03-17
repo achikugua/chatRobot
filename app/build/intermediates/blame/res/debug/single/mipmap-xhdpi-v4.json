@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\tabbar_sign_pressed0.png",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\src\\main\\res\\mipmap-xhdpi\\tabbar_sign_pressed0.png"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\tabbar_sign_default0.png",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\src\\main\\res\\mipmap-xhdpi\\tabbar_sign_default0.png"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\tabbar_settings_default0.png",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\src\\main\\res\\mipmap-xhdpi\\tabbar_settings_default0.png"
+    },
+    {
+        "merged": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\tabbar_settings_pressed0.png",
+        "source": "D:\\AndroidWorkPlace\\littleChatRobot\\simpleChatRobot\\app\\src\\main\\res\\mipmap-xhdpi\\tabbar_settings_pressed0.png"
+    }
+]
